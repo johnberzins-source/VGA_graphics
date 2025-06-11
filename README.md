@@ -9,3 +9,6 @@ The new scanline method was based on this great tutorial: http://www.breatharian
 
 # Usage:
 open "VGA_graphics_tarci_library_arduino.ino" file with Arduino IDE, connect the pins as directed and watch the example.
+
+# Deprecated???
+Maybe try https://github.com/Pancra85/pico-mposite-arduino- with VSCODE + PlatformIO (Arduino)
